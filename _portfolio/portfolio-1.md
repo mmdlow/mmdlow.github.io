@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NUS Online Directory"
+excerpt: "Telegram bot for easy access to all NUS sites. Built in Python<br/><img src='/images/portfolio-nus-online-dir.png'>"
 collection: portfolio
 ---
 
