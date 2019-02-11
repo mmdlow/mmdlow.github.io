@@ -1,6 +1,6 @@
 ---
 title: "NUS Online Directory"
-excerpt: "Telegram bot for easy access to all NUS sites. Built in Python<br/><img src='/images/portfolio-nus-online-dir.png'>"
+excerpt: "Telegram bot for easy access to all NUS sites. Built in Python<br/><img src='/images/portfolio-nus-online-dir.png' width='500'>"
 collection: portfolio
 ---
 
